@@ -1,0 +1,16 @@
+{
+    "version": "0.2",
+    "__metadata__" : {
+        "license_url" : "http://www.egl-eurofins.com/emvclass/CSVArchives/EmVClass.2018-Q2.csv",
+        "licence" : "CC BY-NC 4.0",
+        "url" : "http://www.egl-eurofins.com/emvclass/CSVArchives/EmVClass.2018-Q2.csv"
+    },
+    "dumper" : {
+        "data_url" : "http://www.egl-eurofins.com/emvclass/CSVArchives/EmVClass.2018-Q2.csv",
+        "uncompress" : false
+    },
+    "uploader" : {
+        "parser" : "parser:load_data",
+        "on_duplicates" : "ignore"
+    }
+}
